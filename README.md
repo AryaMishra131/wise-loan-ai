@@ -186,7 +186,10 @@ This solution addresses:
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Author
-
+**Tanisha Arote**\
+**Diksha Bhor**\
+**Shravani Salve**\
+**Aarya Mishra**\
 **Harsh Meshram**\
-Aspiring Machine Learning Engineer\
-Building AI systems for financial inclusion 🚀
+
+
